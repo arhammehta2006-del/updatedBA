@@ -1,0 +1,10 @@
+asset,expected_return,volatility,source
+Liquid Fund,0.054,0.015,"Direct Plan NAV, CRISIL Liquid Debt A-I category average, 2016-2025 monthly CAGR/volatility - see config.METHODOLOGY and Portfolio_Methodology.xlsx"
+Debt Fund,0.069,0.030,"Direct Plan NAV, Corporate Bond Fund category average, 2016-2025 monthly CAGR/volatility - see config.METHODOLOGY and Portfolio_Methodology.xlsx"
+Gold,0.115,0.215,"24K gold year-end INR spot price series, 2016-2025 - see config.METHODOLOGY and Portfolio_Methodology.xlsx"
+Real Estate,0.119,0.090,"NHB RESIDEX house-price index + average residential rental yield, 2016-2025 - see config.METHODOLOGY and Portfolio_Methodology.xlsx"
+Equity,0.122,0.165,"Nifty 500 Price Return Index (non-TRI), 2016-2025 monthly CAGR/volatility; adjusted -1.2pts from original TRI-sourced figure - see config.METHODOLOGY"
+Large Cap Mutual Fund,0.123,0.165,"Direct Plan NAV vs Nifty 50 Price Return Index (non-TRI) benchmark, 2016-2025; adjusted -1.2 (TRI->price) +0.6 (Regular->Direct) pts - see config.METHODOLOGY"
+Mid Cap Mutual Fund,0.147,0.235,"Direct Plan NAV vs Nifty Midcap 150 Price Return Index (non-TRI) benchmark, 2016-2025; adjusted -1.2 (TRI->price) +0.6 (Regular->Direct) pts - see config.METHODOLOGY"
+Small Cap Mutual Fund,0.156,0.315,"Direct Plan NAV vs Nifty Smallcap 250 Price Return Index (non-TRI) benchmark, 2016-2025; adjusted -1.2 (TRI->price) +0.6 (Regular->Direct) pts - see config.METHODOLOGY"
+Flexi Cap Mutual Fund,0.125,0.165,"Direct Plan NAV, Flexi Cap fund category average (non-TRI benchmark-relative), 2016-2025; adjusted -1.2 (TRI->price) +0.6 (Regular->Direct) pts - see config.METHODOLOGY"
